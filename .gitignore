@@ -1,0 +1,21 @@
+# Eclipse specific
+.classpath
+.project
+.settings/
+bin/
+
+# Maven output
+target/
+logs/
+*.log
+
+# TestNG reports
+test-output/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Java compiled files
+*.class
